@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#8fce00"
   #text_color: "black"
-  overlay_image: /assets/images/wallpaper.png
+  overlay_image: /assets/images/wallpaper.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download Now"
       url: "/download-bundle/"
@@ -15,7 +15,7 @@ header:
       url: "/how/"
 excerpt: >
   The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">262 times per day.</a>
-  <br /> Start using this to your advantage–to create and keep habits through your phone's wallpaper.<br />
+  <br /> Start using this to your advantage–by creating and keeping habits through your phone's wallpaper.<br />
   
 feature_row:
   - image_path: /assets/images/workout.jpg
