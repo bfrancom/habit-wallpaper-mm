@@ -3,36 +3,42 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#8fce00"
+  #text_color: "black"
+  overlay_image: /assets/images/wallpaper.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> Download Now"
+      url: "/download-bundle/"
+    - label: "<i class='fas fa-check-square'></i> Subscribe"
+      url: "/subscription/"
+    - label: "<i class='fas fa-question-circle'></i> How it works"
+      url: "/how/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">262 times per day.</a>
+  <br /> Start using this to your advantage–to create and keep habits through your phone's wallpaper.<br />
+  
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: /assets/images/workout.jpg
+    alt: "Exercise"
+    title: "Exercise"
+    excerpt: "Start an exercise habit"
+    url: "/docs/exercise/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "Free Download"
+  - image_path: /assets/images/healthy-snacks.jpg
+    alt: "Eat Right"
+    title: "Eat Right"
+    excerpt: "Start a habit of eating right"
+    url: "/docs/eat-right/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "Free Download"
+  - image_path: /assets/images/meditate.jpg
+    alt: "Meditation"
+    title: "Meditation"
+    excerpt: "Start a meditation habit"
+    url: "/docs/meditation/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Free Download"      
 ---
 
 {% include feature_row %}
