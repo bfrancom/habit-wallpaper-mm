@@ -9,8 +9,8 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Download Now"
       url: "/download-bundle/"
-    - label: "<i class='fas fa-check-square'></i> Subscribe"
-      url: "https://www.patreon.com/bePatron?u=72921045"
+    # - label: "<i class='fas fa-check-square'></i> Subscribe"
+    #   url: "https://www.patreon.com/bePatron?u=72921045"
     - label: "<i class='fas fa-question-circle'></i> How it works"
       url: "/how/"
 excerpt: >
@@ -21,14 +21,14 @@ feature_row:
   - image_path: /assets/images/workout-scrot.jpg
     alt: "Exercise"
     title: "Exercise"
-    excerpt: "Start an exercise habit"
+    excerpt: "Start an exercise habit (but check with your doctor before doing this of course)"
     url: "/docs/exercise/"
     btn_class: "btn--primary"
     btn_label: "Free Download"
   - image_path: /assets/images/healthy-snacks-scrot.jpg
     alt: "Eat Right"
-    title: "Eat Right"
-    excerpt: "Start a habit of eating right"
+    title: "Eat Right "
+    excerpt: "Start a habit of eating right (but check with your doctor before doing this of course)"
     url: "/docs/eat-right/"
     btn_class: "btn--primary"
     btn_label: "Free Download"
