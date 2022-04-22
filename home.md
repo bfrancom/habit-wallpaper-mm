@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download Now"
       url: "/download-bundle/"
     - label: "<i class='fas fa-check-square'></i> Subscribe"
-      url: "/subscription/"
+      url: "https://www.patreon.com/bePatron?u=72921045"
     - label: "<i class='fas fa-question-circle'></i> How it works"
       url: "/how/"
 excerpt: >
@@ -18,21 +18,21 @@ excerpt: >
   <br /> Start using this to your advantage–by creating and keeping habits through your phone's wallpaper.<br />
   
 feature_row:
-  - image_path: /assets/images/workout.jpg
+  - image_path: /assets/images/workout-scrot.jpg
     alt: "Exercise"
     title: "Exercise"
     excerpt: "Start an exercise habit"
     url: "/docs/exercise/"
     btn_class: "btn--primary"
     btn_label: "Free Download"
-  - image_path: /assets/images/healthy-snacks.jpg
+  - image_path: /assets/images/healthy-snacks-scrot.jpg
     alt: "Eat Right"
     title: "Eat Right"
     excerpt: "Start a habit of eating right"
     url: "/docs/eat-right/"
     btn_class: "btn--primary"
     btn_label: "Free Download"
-  - image_path: /assets/images/meditate.jpg
+  - image_path: /assets/images/meditation-scrot.jpg
     alt: "Meditation"
     title: "Meditation"
     excerpt: "Start a meditation habit"
