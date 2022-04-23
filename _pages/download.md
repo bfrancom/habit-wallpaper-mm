@@ -25,4 +25,6 @@ To save these as your wallpaper:
 * Long-press on an image and save it to your photos
 * Then follow the instructions here: https://support.apple.com/guide/iphone/change-the-wallpaper-iph3d267104/ios 
 
+(I personally only set the wallpaper for the lockscreen because it's too full of ransackery when added to the home screen)
+
 {% include gallery %}
