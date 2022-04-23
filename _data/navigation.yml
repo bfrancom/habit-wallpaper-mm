@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Subscribe"
-  #   url: /subscribe/
+  - title: "Download"
+    url: /download/
+  - title: "Subscribe"
+    url: /subscribe/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
