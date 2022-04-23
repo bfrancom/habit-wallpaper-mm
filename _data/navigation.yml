@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "download"
     url: /download/
-  - title: "Subscribe"
+  - title: "subscribe"
     url: /subscribe/
   # - title: "Sample Posts"
   #   url: /year-archive/
