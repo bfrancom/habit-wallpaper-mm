@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
+  - title: "home"
+    url: /
+  - title: "about"
     url: /about/
-  - title: "Download"
+  - title: "download"
     url: /download/
   - title: "Subscribe"
     url: /subscribe/

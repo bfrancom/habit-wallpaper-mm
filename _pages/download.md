@@ -21,6 +21,8 @@ gallery:
 
 Currently, I only have the following wallpapers below. They have only been tested on iPhone because I don't have a ton of time. If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
 
-To save these as your wallpaper, long-press on an image and save it to your 
+To save these as your wallpaper:
+* Long-press on an image and save it to your photos
+* Then follow the instructions here: https://support.apple.com/guide/iphone/change-the-wallpaper-iph3d267104/ios 
 
 {% include gallery %}
