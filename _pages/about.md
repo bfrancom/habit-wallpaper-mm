@@ -12,7 +12,7 @@ header:
 ---
 
 ## About HabituWall
-If you've ever watched the film, ["What About Bob,"](https://www.imdb.com/title/tt0103241/) you'll be familiar with the concept of "Baby Steps" posed by the character Doctor Leo Marvin (played by Richard Dreyfuss).  The concept is to break down something big into little bits to accomplish a goal. This concept ends up being a life changer for the Bob Wiley character (played by Bill Murray), helping him overcome all his phobias.
+If you've ever watched the film, ["What About Bob,"](https://www.imdb.com/title/tt0103241/) you'll be familiar with the concept of "Baby Steps" posed by the character Doctor Leo Marvin (played by Richard Dreyfuss).  The concept is to break down something big into little bits to accomplish a goal. This concept ends up being a life changer for the Bob Wiley character (played by Bill Murray), helping him overcome his many phobias.
 
 If you've never watched the film, shame on you! Go watch it right now!
 
