@@ -1,7 +1,7 @@
 ---
 permalink: /how/
+layout: single
 title: How
-toc: true
 ---
 ## Me In 30 Seconds:	
 

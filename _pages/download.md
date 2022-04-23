@@ -1,11 +1,24 @@
 ---
 permalink: /download/
 title: Download
-toc: true
+toc: false
 layout: single
-title: Title of Your Post
-
+title: ""
+gallery:
+  - url: /assets/images/workout.jpg
+    image_path: /assets/images/workout.jpg
+    alt: "exercise"
+    title: "Image 1 title caption"
+  - url: /assets/images/healthy-snacks.jpg
+    image_path: /assets/images/healthy-snacks.jpg
+    alt: "Eat Healthy"
+    title: "Eat Healthy"
+  - url: /assets/images/meditate.jpg
+    image_path: /assets/images/meditate.jpg
+    alt: "Meditation"
+    title: "Meditation"
 ---
-## Me In 30 Seconds:	
 
-I live by several mantras; I ain't afeared of no man nor ghost. I don't take no for an answer, no prisoners, and no crap from no one. When I foresee or detect any trouble, I proceed to kick butt, and stack'em 10 high.
+Currently, I only have the following wallpapers below. (These have only been tested on iPhone) If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
+
+{% include gallery %}
