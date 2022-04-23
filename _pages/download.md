@@ -19,7 +19,7 @@ gallery:
     title: "Meditation"
 ---
 
-Currently, I only have the following wallpapers below. They have only been tested on iPhone because I don't have a ton of time. If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
+Currently, I only have the following wallpapers below. They have been tested on iPhone because I don't have a ton of time. If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
 
 DISCLAIMER: Use at your own risk. You should consult your doctor (and maybe your mom) for any lifestyle or exercise changes.
 
