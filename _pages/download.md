@@ -19,6 +19,8 @@ gallery:
     title: "Meditation"
 ---
 
-Currently, I only have the following wallpapers below. (These have only been tested on iPhone) If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
+Currently, I only have the following wallpapers below. They have only been tested on iPhone because I don't have a ton of time. If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
+
+To save these as your wallpaper, long-press on an image and save it to your 
 
 {% include gallery %}
