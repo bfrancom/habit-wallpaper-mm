@@ -15,7 +15,7 @@ header:
       url: "/how/"
 excerpt: >
   The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">262 times per day.</a>
-  <br /> Start using this to your advantage–by creating and keeping habits through your phone's wallpaper.<br />
+  <br /> Start using this to your advantage–by creating and keeping habits through reminders from your phone's wallpaper.<br />
   
 feature_row:
   - image_path: /assets/images/workout-scrot.jpg
