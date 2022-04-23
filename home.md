@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images/wallpaper.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download Now"
-      url: "/download-bundle/"
-    # - label: "<i class='fas fa-check-square'></i> Subscribe"
-    #   url: "https://www.patreon.com/bePatron?u=72921045"
+      url: "/download/"
+    - label: "<i class='fas fa-check-square'></i> Subscribe"
+      url: "/subscribe/"
     - label: "<i class='fas fa-question-circle'></i> How it works"
       url: "/how/"
 excerpt: >
