@@ -18,11 +18,13 @@ If you've never watched the film, shame on you! Go watch it right now!
 
 After doing research and reading ["Atomic Habits"](https://jamesclear.com/atomic-habits) and ["Tiny Habits,"](https://tinyhabits.com/book/) I realized the concept of "Baby Steps" was actually pretty great. 
 
-That is where this wallpaper comes in. I haven't liked habit apps that add more notifications and nuisance than actually offering assistance. I figure you can really focus on one habit at a time, and having frequent, unobtrusive reminders, works better for me. It also might work better for you as well.
+That is where this wallpaper comes in. I haven't liked habit apps that add more notifications and nuisance than actually offering assistance. For me, if can really focus on developing one habit at a time, having frequent, unobtrusive reminders, it works better. It also might work better for you as well.
+
+By chaining your habit to an existing action (like waking up), followed by a celebration (fist-pump anyone?), it will hopefully help you create and keep your good habits. 
 
 If you want a specific wallpaper, please [email](mailto:ben@habituwall.com) me the deets. 
 
 ## About Me	
 
-Hi, I'm [Ben Francom](https://benfran.com). I don't like to pigeonhole the description of myself, but some may say that I'm an innovator, creator, engineer and artist. I started a company called EISMGard LLC during the pandemic in 2020 in case things really went south for me. They didn't, but I didn't know what was going to happen at that time. Now it's 2022, and I figured HabituWall would be a good 1st product of EISMGard LLC.
+Hi, I'm [Ben Francom](https://benfran.com). Some may say that I'm an innovator, creator, engineer and artist. I started a company called EISMGard LLC during the pandemic in 2020 in case things really went south for me. They didn't, but I didn't know what was going to happen at that time. Now it's 2022, and I figured HabituWall would be a good 1st product of EISMGard LLC.
 
