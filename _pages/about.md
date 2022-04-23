@@ -24,6 +24,8 @@ By chaining your habit to an existing action (like waking up), followed by a cel
 
 If you want a specific wallpaper, please [email](mailto:ben@habituwall.com) me the deets. 
 
+Head on over to the [download](/download/) page to get started.
+
 ## About Me	
 
 Hi, I'm [Ben Francom](https://benfran.com). Some may say that I'm an innovator, creator, engineer and artist. I started a company called EISMGard LLC during the pandemic in 2020 in case things really went south for me. They didn't, but I didn't know what was going to happen at that time. Now it's 2022, and I figured HabituWall would be a good 1st product of EISMGard LLC.
