@@ -42,3 +42,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+__See more in the [downloads page](/download/)__
