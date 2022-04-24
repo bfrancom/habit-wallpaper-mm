@@ -147,11 +147,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-<<<<<<< HEAD
       url: https://instagram.com/habituwall
-=======
-      url: https://instagram.com/habitwallpaper
->>>>>>> db1788b3fb5b08bfc67f8b3319978c02be652498
+
 
 
 # Reading Files
