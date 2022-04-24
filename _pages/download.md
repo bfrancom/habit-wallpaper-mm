@@ -17,6 +17,7 @@ gallery:
     image_path: /assets/images/meditate.jpg
     alt: "Meditation"
     title: "Meditation"
+<<<<<<< HEAD
   - url: /assets/images/pray.jpg
     image_path: /assets/images/pray.jpg
     alt: "Pray"
@@ -29,6 +30,8 @@ gallery:
     image_path: /assets/images/harahachibunme.jpg
     alt: "Hara Hachi Bun Me"
     title: "Hara Hachi Bun Me"
+=======
+>>>>>>> db1788b3fb5b08bfc67f8b3319978c02be652498
 ---
 
 Currently, I only have the following wallpapers below. They have been tested on iPhone because I don't have a ton of time. If you have any requests or problems, please submit them via [email](mailto:ben@habituwall.com), and [subscribe](/subscribe/) for updates.
