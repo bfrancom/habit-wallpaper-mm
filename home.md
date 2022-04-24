@@ -42,8 +42,5 @@ feature_row:
 ---
 
 {% include feature_row %}
-<<<<<<< HEAD
 
 __See more in the [downloads page](/download/)__
-=======
->>>>>>> db1788b3fb5b08bfc67f8b3319978c02be652498
