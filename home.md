@@ -14,7 +14,7 @@ header:
    # - label: "<i class='fas fa-question-circle'></i> How it works"
     #  url: "/how/"
 excerpt: >
-  The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">344 times per day.</a>
+  The average American checks their smartphone <a href="https://www.reviews.org/mobile/cell-phone-addiction/">144 times per day.</a>
   <br /> Start using this to your advantage–by creating and keeping habits via reminders from your phone's wallpaper.<br />
   
 feature_row:
